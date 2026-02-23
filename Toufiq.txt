@@ -1,2 +1,3 @@
 Name:Tamzid
 Department :CSE
+Location:Kuratoli.
